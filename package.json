@@ -1,0 +1,35 @@
+{
+  "name": "akashpateliya",
+  "version": "1.0.0",
+  "description": "Akash Pateliya's resume in your terminal",
+  "main": "index.js",
+  "bin": {
+    "akashpateliya": "./index.js"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "resume",
+    "cv",
+    "portfolio",
+    "akash",
+    "pateliya",
+    "developer"
+  ],
+  "author": {
+    "name": "Akash Pateliya",
+    "email": "akash.pateliya@outlook.com",
+    "url": "https://www.linkedin.com/in/akashpateliya"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "boxen": "^5.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akash-pateliya/npx-resume"
+  },
+  "homepage": "https://www.linkedin.com/in/akashpateliya"
+}
